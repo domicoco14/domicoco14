@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi 👋 I'm Domicoco
 
-<!--
-**domicoco14/domicoco14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and a beginner Python developer learning software development step by step.  
+I enjoy building simple, real-world projects that help me understand programming and problem-solving better.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm Learning
+- Python programming
+- SQL (database basics)
+- Git & GitHub
+- File handling with CSV
+
+---
+
+### 🚀 Current Focus
+- Strengthening Python and SQL fundamentals
+- Building beginner-friendly projects
+- Writing clean and readable code
+- Understanding how data is stored and managed
+
+---
+
+### 🛠️ Tools & Technologies
+- Python
+- SQL
+- Git & GitHub
+- VS Code
+- Microsoft Word & Excel
+- Basic graphic design (CorelDRAW)
+
+---
+
+### 📂 Projects
+- **Bank Management System (Python)** – a terminal-based banking simulation using CSV files  
+- More projects coming as I continue learning 🚧
+
+---
+
+### 🌱 My Goal
+To grow consistently as a developer, improve my technical skills, and prepare for future academic and tech opportunities.
+
+---
+
+📫 **Connect with me**
+- GitHub: https://github.com/domicoco14
