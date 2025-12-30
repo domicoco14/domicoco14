@@ -9,6 +9,8 @@ I enjoy building simple, real-world projects that help me understand programming
 - Python programming
 - SQL (database basics)
 - Git & GitHub
+- Power Business Intelligence
+- Microsoft Excel
 - File handling with CSV
 
 ---
