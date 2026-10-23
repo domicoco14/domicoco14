@@ -58,5 +58,5 @@ To grow into a strong AI and machine learning engineer by building, learning and
 📫 **Connect with me**
 - LinkedIn: [Dominion Akinsola](https://linkedin.com/in/dominion-akinsola-2197a0385)
 - GitHub: [domicoco14](https://github.com/domicoco14)
-- Email: domicoco1.dev@gmail.com
+- Email: domicoco14.dev@gmail.com
 - Instagram: [@domicocode](https://instagram.com/domicocode)
